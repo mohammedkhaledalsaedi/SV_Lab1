@@ -1,0 +1,9 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/SystemVerilog/Lab1/TASK2/Task2/Task2.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/SystemVerilog/Lab1/TASK2/Task2/Task2.srcs/sim_1/new/Half_Adder_testbench.sv,1731329619,systemVerilog,,,,Half_Adder_testbench,,,,,,,,
+/home/it/SystemVerilog/Lab1/TASK2/Task2/Task2.srcs/sim_1/new/task3_fulladder_benchtest.sv,1731344970,systemVerilog,,,,task3_fulladder_benchtest,,,,,,,,
+/home/it/SystemVerilog/Lab1/TASK2/Task2/Task2.srcs/sources_1/new/task2.sv,1731331773,systemVerilog,,/home/it/SystemVerilog/Lab1/TASK2/Task2/Task2.srcs/sources_1/new/task3_fulladder.sv,,task2_Half_Adder,,,,,,,,
+/home/it/SystemVerilog/Lab1/TASK2/Task2/Task2.srcs/sources_1/new/task3_fulladder.sv,1731346785,systemVerilog,,/home/it/SystemVerilog/Lab1/TASK2/Task2/Task2.srcs/sim_1/new/task3_fulladder_benchtest.sv,,task3_fulladder,,,,,,,,

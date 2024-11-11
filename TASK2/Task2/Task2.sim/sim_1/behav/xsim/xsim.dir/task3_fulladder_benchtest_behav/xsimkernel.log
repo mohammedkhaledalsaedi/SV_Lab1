@@ -1,0 +1,4 @@
+Running: xsim.dir/task3_fulladder_benchtest_behav/xsimk -simmode gui -wdb task3_fulladder_benchtest_behav.wdb -simrunnum 0 -socket 60093
+Design successfully loaded
+Design Loading Memory Usage: 32992 KB (Peak: 33564 KB)
+Design Loading CPU Usage: 30 ms
